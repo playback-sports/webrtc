@@ -11,7 +11,7 @@ import (
 	"github.com/pion/interceptor"
 	"github.com/pion/rtp"
 	"github.com/pion/transport/test"
-	"github.com/pion/webrtc/v3/pkg/media"
+	"github.com/playback-sports/webrtc/v3/pkg/media"
 	"github.com/stretchr/testify/assert"
 )
 

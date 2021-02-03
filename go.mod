@@ -1,4 +1,4 @@
-module github.com/pion/webrtc/v3
+module github.com/playback-sports/webrtc/v3
 
 go 1.12
 
@@ -17,6 +17,7 @@ require (
 	github.com/pion/sdp/v3 v3.0.4
 	github.com/pion/srtp/v2 v2.0.1
 	github.com/pion/transport v0.12.2
+	github.com/pion/webrtc/v3 v3.0.4
 	github.com/sclevine/agouti v3.0.0+incompatible
 	github.com/stretchr/testify v1.7.0
 	golang.org/x/net v0.0.0-20210119194325-5f4716e94777

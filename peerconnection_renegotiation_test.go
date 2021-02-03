@@ -13,9 +13,9 @@ import (
 	"time"
 
 	"github.com/pion/transport/test"
-	"github.com/pion/webrtc/v3/internal/util"
-	"github.com/pion/webrtc/v3/pkg/media"
-	"github.com/pion/webrtc/v3/pkg/rtcerr"
+	"github.com/playback-sports/webrtc/v3/internal/util"
+	"github.com/playback-sports/webrtc/v3/pkg/media"
+	"github.com/playback-sports/webrtc/v3/pkg/rtcerr"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

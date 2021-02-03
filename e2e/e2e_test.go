@@ -12,8 +12,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/pion/webrtc/v3"
-	"github.com/pion/webrtc/v3/pkg/media"
+	"github.com/playback-sports/webrtc/v3"
+	"github.com/playback-sports/webrtc/v3/pkg/media"
 	"github.com/sclevine/agouti"
 )
 

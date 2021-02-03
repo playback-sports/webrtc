@@ -4,7 +4,7 @@ demonstrates of how to handle incoming track with multiple simulcast rtp streams
 ## Instructions
 ### Download simulcast
 ```
-go get github.com/pion/webrtc/v3/examples/simulcast
+go get github.com/playback-sports/webrtc/v3/examples/simulcast
 ```
 
 ### Open simulcast example page

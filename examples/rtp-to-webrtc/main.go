@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"net"
 
-	"github.com/pion/webrtc/v3"
-	"github.com/pion/webrtc/v3/examples/internal/signal"
+	"github.com/playback-sports/webrtc/v3"
+	"github.com/playback-sports/webrtc/v3/examples/internal/signal"
 )
 
 func main() {

@@ -11,7 +11,7 @@ import (
 	"github.com/pion/datachannel"
 	"github.com/pion/logging"
 	"github.com/pion/sctp"
-	"github.com/pion/webrtc/v3/pkg/rtcerr"
+	"github.com/playback-sports/webrtc/v3/pkg/rtcerr"
 )
 
 const sctpMaxChannels = uint16(65535)

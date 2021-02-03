@@ -6,7 +6,7 @@ import (
 	"fmt"
 
 	"github.com/pion/logging"
-	"github.com/pion/webrtc/v3"
+	"github.com/playback-sports/webrtc/v3"
 )
 
 // Everything below is the Pion WebRTC API! Thanks for using it ❤️.
